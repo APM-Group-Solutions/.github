@@ -17,7 +17,7 @@ The backbone of your airline operations. APM Flights is designed to handle the c
 * **Staff Regulation:** Automated rank checks and qualification management.
 * **Smart Notifications:** Instant Discord webhooks for staff pings.
 
-### 🟢 Crew Connect (Premium Add-on)
+### 🟢 Crew Connect (Add-on)
 The ultimate pilot dashboard. Crew Connect bridges the gap between management and staff.
 * **Personal Dashboard:** Every staff member gets their own flight history and stats.
 * **Rank Progression:** Visual tracking of XP and next qualification requirements.
@@ -34,8 +34,8 @@ The APM ecosystem is hosted and managed via our secure portal:
 ### Installation
 Our tools integrate with Roblox games via a dedicated API loader. 
 1. Get your API Key from the **Client Area**.
-2. Deploy the APM Loader in your game's `ServerScriptService`.
-3. Configure your airline settings via the dashboard.
+2. Deploy the APM Product on your server.
+3. Configure your airline settings via the the .env file.
 
 ---
 
